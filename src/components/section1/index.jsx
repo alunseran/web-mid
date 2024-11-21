@@ -9,7 +9,7 @@ const Section1 = () => {
             />
           </div>
           <p>
-            Hello! I am <strong>Seran Alun</strong>. I am a Computer Science student majoring Information System in Klabat University.
+            Hello! I am <strong>Seran Alun</strong>. I am a Computer Science student majoring Informatics in Klabat University.
             I have passion for coding, also I am an easygoing person and interested in Front End Development.
           </p>
           <a href="#" className="btn btn-outline-primary">
